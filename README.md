@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <br><br>
 <h1 align="center" color="#008b8b"  class="greeting">Hi 👋, I'm David Azuaje</h1>
 
